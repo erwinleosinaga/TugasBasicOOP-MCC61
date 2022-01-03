@@ -1,0 +1,16 @@
+X:\belajar\mii\c#\task_oop\task_oop\obj\Debug\net5.0\task_oop.csproj.AssemblyReference.cache
+X:\belajar\mii\c#\task_oop\task_oop\obj\Debug\net5.0\task_oop.GeneratedMSBuildEditorConfig.editorconfig
+X:\belajar\mii\c#\task_oop\task_oop\obj\Debug\net5.0\task_oop.AssemblyInfoInputs.cache
+X:\belajar\mii\c#\task_oop\task_oop\obj\Debug\net5.0\task_oop.AssemblyInfo.cs
+X:\belajar\mii\c#\task_oop\task_oop\obj\Debug\net5.0\task_oop.csproj.CoreCompileInputs.cache
+X:\belajar\mii\c#\task_oop\task_oop\bin\Debug\net5.0\task_oop.exe
+X:\belajar\mii\c#\task_oop\task_oop\bin\Debug\net5.0\task_oop.deps.json
+X:\belajar\mii\c#\task_oop\task_oop\bin\Debug\net5.0\task_oop.runtimeconfig.json
+X:\belajar\mii\c#\task_oop\task_oop\bin\Debug\net5.0\task_oop.runtimeconfig.dev.json
+X:\belajar\mii\c#\task_oop\task_oop\bin\Debug\net5.0\task_oop.dll
+X:\belajar\mii\c#\task_oop\task_oop\bin\Debug\net5.0\ref\task_oop.dll
+X:\belajar\mii\c#\task_oop\task_oop\bin\Debug\net5.0\task_oop.pdb
+X:\belajar\mii\c#\task_oop\task_oop\obj\Debug\net5.0\task_oop.dll
+X:\belajar\mii\c#\task_oop\task_oop\obj\Debug\net5.0\ref\task_oop.dll
+X:\belajar\mii\c#\task_oop\task_oop\obj\Debug\net5.0\task_oop.pdb
+X:\belajar\mii\c#\task_oop\task_oop\obj\Debug\net5.0\task_oop.genruntimeconfig.cache
